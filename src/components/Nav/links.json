@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "label": "Home",
+      "href": "/home"
+    },
+    {
+      "label": "Boka städning",
+      "href": "/about"
+    },
+    {
+      "label": "Mina sidor",
+      "href": "/minasidor"
+    }
+  ]
+}
